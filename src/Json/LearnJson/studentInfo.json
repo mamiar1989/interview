@@ -1,0 +1,28 @@
+{
+  "Key": "Value",
+  "FirstName": "Jhon",
+  "LastName": "Cohen",
+  "Address": [
+    {
+      "Office Address": "New Orleand "
+    },
+    {
+      "Home Address": " New Jersey"
+    },
+    {
+      "Restaurant Address": "    New York"
+    }
+  ],
+  "StInfo": [
+    {
+      "age": "25"
+    },
+    {
+      "sex": "male"
+    },
+    {
+      "degree": "Master"
+    }
+  ]
+}
+
